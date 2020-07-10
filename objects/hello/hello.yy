@@ -2,7 +2,7 @@
     "id": "872e0c1c-9572-4322-94d3-d042ec9e671f",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "phone",
+    "name": "hello",
     "eventList": [
         
     ],
